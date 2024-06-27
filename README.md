@@ -31,9 +31,9 @@ Designed interactive dashboards to display key metrics and trends.
 - **Count of Orders by Category:** Order distribution across product categories.
 - **Count of Orders by Payment Mode:** Order distribution based on payment methods.
 ## Key Metrics
-- Sum of Amount
-- Sum of Profit
-- Sum of Quantity
+- Total Amount
+- Profit
+- Total Quantity
 - Average Order Value
 ## Screenshot
 [Ecommerce Sales Dashboard](https://github.com/madhushree82105/ecommerce_sales_dashboard/blob/main/Ecommerce_Sales_Dashboard_Image.png)
